@@ -23,11 +23,11 @@
 
 ---
 
-  - **Сайт визитка** lebedkov.ru
+  - **Сайт визитка** <a href="lebedkov.ru">lebedkov.ru</a>
 
   - <a href="https://t.me/Petrovich_Analyst">Telegram для связи</a>
 
-  - <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> <a href="https://github.com/BorodaOmsk/Analyst-s-Notes/blob/main/README.md">Записки аналитика</a>
+  -  <a href="https://github.com/BorodaOmsk/Analyst-s-Notes/blob/main/README.md">Записки аналитика</a>
   
   ---
 
