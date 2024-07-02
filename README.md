@@ -14,7 +14,7 @@
   
 </h1>
 <h2>
-Системный аналитик  увлекающийся программированием на 
+Системный аналитик, который изучает программирование на 
     <img src="https://skillicons.dev/icons?i=rust" />
    и <img src="https://skillicons.dev/icons?i=py"
 
