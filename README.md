@@ -23,7 +23,7 @@
 
 ---
 
-  - **Сайт визитка** <a href="lebedkov.ru">lebedkov.ru</a>
+<!-- - **Сайт визитка** <a href="lebedkov.ru">lebedkov.ru</a> -->
 
   - <a href="https://t.me/Petrovich_Analyst">Telegram для связи</a>
 
