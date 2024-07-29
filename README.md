@@ -48,8 +48,8 @@
 </div>
 
 
-<div align="center", class="block1">
-Инструметы 
+<div align="center">
+Инструменты:
 </div>
 
 <p align="center">
