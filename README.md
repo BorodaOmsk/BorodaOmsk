@@ -31,7 +31,7 @@
    <h2>
     Аналитика:
 </h2>
-  <a href="https://github.com/BorodaOmsk/Analyst-s-Notes/blob/main/README.md">Записки аналитика</a>
+  <a href="https://github.com/BorodaOmsk/Analyst-s-Notes/blob/main/README.md">Полезные материалы для "Системного аналитика"</a>
    </div>
   
 
@@ -45,7 +45,7 @@
 
 </div>
 
-
+---
 
 
 <p align="center">
