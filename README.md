@@ -48,7 +48,7 @@
 </div>
 
 
-<div align="center">
+<div align="center", class="block1">
 Инструметы 
 </div>
 
