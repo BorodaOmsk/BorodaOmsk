@@ -28,20 +28,22 @@
 <!-- - **Сайт визитка** <a href="lebedkov.ru">lebedkov.ru</a> -->
 
   <div align="center">
-   #Аналитика:
-
+   <h2>
+    Аналитика:
+</h2>
   <a href="https://github.com/BorodaOmsk/Analyst-s-Notes/blob/main/README.md">Записки аналитика</a>
    </div>
   
 
- 
-# проекты на Python:
-
+ <div align="center">
+   <h2>
+проекты на Python:
+</h2>
 <a href="https://github.com/BorodaOmsk/Flask-Jira-data-API">Flask-Jira-data-API</a>
 
 <a href="https://github.com/BorodaOmsk/JiraDataApi">GUI приложение получение данных из Jira</a>
 
-
+</div>
 
 
 
