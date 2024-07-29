@@ -27,10 +27,12 @@
 
 <!-- - **Сайт визитка** <a href="lebedkov.ru">lebedkov.ru</a> -->
 
-  
+  <h1>
    <div align="center">
-   #Аналитика:
+     
+   Аналитика:
    </div>
+   </h1>
 
  <a href="https://github.com/BorodaOmsk/Analyst-s-Notes/blob/main/README.md">Записки аналитика</a>
   
