@@ -49,7 +49,7 @@
 
 
 <div align="center">
-Инструменты:
+
 </div>
 
 <p align="center">
