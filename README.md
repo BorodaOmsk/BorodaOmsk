@@ -37,7 +37,7 @@
 
  <div align="center">
   
-проекты на Python:
+#проекты на Python:
 
  <a href="https://github.com/BorodaOmsk/Flask-Jira-data-API">Flask-Jira-data-API</a>
 
