@@ -24,16 +24,17 @@
 
 
 <!-- - **Сайт визитка** <a href="lebedkov.ru">lebedkov.ru</a> -->
-
+<div align="center">
    <a href="https://t.me/Petrovich_Analyst">Telegram для связи</a>
-
-   
+</div>
+   <div align="center">
    # Аналитика:
+   </div>
 
  <a href="https://github.com/BorodaOmsk/Analyst-s-Notes/blob/main/README.md">Записки аналитика</a>
   
 
-  ---
+ 
 # проекты на Python:
 
 <a href="https://github.com/BorodaOmsk/Flask-Jira-data-API">Flask-Jira-data-API</a>
