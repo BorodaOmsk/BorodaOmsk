@@ -25,11 +25,13 @@
 
 <!-- - **Сайт визитка** <a href="lebedkov.ru">lebedkov.ru</a> -->
 
-  - <a href="https://t.me/Petrovich_Analyst">Telegram для связи</a>
+   <a href="https://t.me/Petrovich_Analyst">Telegram для связи</a>
 
-  -  <a href="https://github.com/BorodaOmsk/Analyst-s-Notes/blob/main/README.md">Записки аналитика</a>
+   --- 
+   # Аналитика
+
+ <a href="https://github.com/BorodaOmsk/Analyst-s-Notes/blob/main/README.md">Записки аналитика</a>
   
-  ---
 
   ---
 # проекты на Python 
