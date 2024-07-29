@@ -19,16 +19,17 @@
    и <img src="https://skillicons.dev/icons?i=py"
 
 </h2>
+
+<a href="https://t.me/Petrovich_Analyst">Telegram для связи</a>
 </div>
 
 
 
 <!-- - **Сайт визитка** <a href="lebedkov.ru">lebedkov.ru</a> -->
-<div align="center">
-   <a href="https://t.me/Petrovich_Analyst">Telegram для связи</a>
-</div>
+
+  
    <div align="center">
-   # Аналитика:
+   #Аналитика:
    </div>
 
  <a href="https://github.com/BorodaOmsk/Analyst-s-Notes/blob/main/README.md">Записки аналитика</a>
