@@ -40,7 +40,7 @@
 
 <a href="https://github.com/BorodaOmsk/JiraDataApi">GUI приложение получение данных из Jira</a>
 
-  ---
+
 
 
 
