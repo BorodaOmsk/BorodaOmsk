@@ -20,7 +20,7 @@
 
 </h2>
 
-<a href="https://t.me/Petrovich_Analyst">Telegram для связи</a>
+<a href="https://t.me/Petrovich_Analyst">Telegram канал для связи</a>
 </div>
 
 
