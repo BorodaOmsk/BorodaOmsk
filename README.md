@@ -38,10 +38,12 @@
  <div align="center">
   <h2>
 проекты на Python:
----
+<h2>
  1. <a href="https://github.com/BorodaOmsk/Flask-Jira-data-API">Flask-Jira-data-API</a>
----
+</h2>
+    <h2>
 2. <a href="https://github.com/BorodaOmsk/JiraDataApi">GUI приложение получение данных из Jira</a>
+      </h2>
 </h2>
 </div>
 
