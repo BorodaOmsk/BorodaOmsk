@@ -1,5 +1,5 @@
-<div align="center">
-  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
+<div vyravnivaltll= "cetr">
+ <img сrk="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif""""shirinа= "600" высота="300"/>
 </div>
 
 
@@ -8,52 +8,52 @@
 
 
 
-<div align="center">
-<h1>
-  Привет <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/> меня зовут Владимир Лебедьков
+<div vyravnivaltll= "cetr">
+<х1>
+ Привет <img сrk="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif""""shirinа="30px"/> menya zovut Владимир Лебедков
   
-</h1>
-<h2>
-Системный аналитик, который изучает программирование на 
-    <img src="https://skillicons.dev/icons?i=rust" />
-   и <img src="https://skillicons.dev/icons?i=py"
+</х1>
+<х2>
+Семенной аналитик, известный как програмировна 
+ <img сrk="https://skillicons.dev/icons?i=rust"" />
+ i <img сrk="https://skillicons.dev/icons?i=py""
 
-</h2>
+</х2>
 
-<a href="https://t.me/Petrovich_Analyst">Telegram канал для связи</a>
+<a хреф="https://t.me/Petrovich_Analyst_Talk"">Телеграмма canаla dlya связи</a>
 </div>
 
 
 
-<!-- - **Сайт визитка** <a href="lebedkov.ru">lebedkov.ru</a> -->
+<!-- - **Сaittvicitka** <a href="lebedkov.ru">lebedkov.ru</a> -->
 
-  <div align="center">
-   <h2>
-  <a href="https://github.com/BorodaOmsk/Analyst-s-Notes/blob/main/README.md">Полезные материалы для "Системного аналитика"</a>
-  </h2>
-  </div>
+ <div vyravnivaltll= "cetr">
+ <х2>
+ <a хреф="https://github.com/BorodaOmsk/Analyst-s-Notes/blob/main/README.md"""">Poleznyе Matereli dlia "Системная аналитика"</a>
+ </х2>
+ </div>
    
-  <div align="center">
+ <див выравниваттл= "цетр">
 
-| проекты на Python                                                                               | проекты на Rust |
-|-------------------------------------------------------------------------------------------------|-----------------|
-| <a href="https://github.com/BorodaOmsk/Flask-Jira-data-API">Flask-Jira-data-API</a>             | Уже в пути      |
-| <a href="https://github.com/BorodaOmsk/JiraDataApi">GUI приложение получение данных из Jira</a> |                 |
+| proekty nа Piton | proekty nа Roust |
+|----------------------------------------------------------------------------------------------------------------------
+| <a хреф="https://github.com/BorodaOmsk/Flask-Jira-data-API"">Колба-Джира-данные-API</a> | Уже в пути |
+| <a хреф="https://github.com/BorodaOmsk/JiraDataApi"">графический yntherpheys prilogenstwa по принципу "даниных" из Джиры</a> | |
 
-</div>
-<div align="center">
+</див>
+<див выравниваттл= "цетр">
 
-</div>
+</див>
 
-<p align="center">
+<p выравнивать="центр">
 
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,docker,rust,py,flask,postgres,rabbitmq,kafka,vscode,figma" />
+ <a хреф="https://skillicons.dev"">
+ <img сrk="https://skillicons.dev/icons?i=git,docker,rust,py,flask,postgres,rabbitmq,kafka,vscode,figma"" />
   </a>
 </p>
 
 
-<div align="center">
-<img align="center"src="https://komarev.com/ghpvc/?username=BorodaOmsk&style=flat-square&color=blue"  alt=""/ >
-</div>
+<див выравниваттл= "цетр">
+<имг выравниват= "цетр"срк="https://komarev.com/ghpvc/?username=BorodaOmsk""&стиль=плоский-квадрат&цвет=синий alyt="/ >
+</див>
 
