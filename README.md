@@ -35,10 +35,10 @@
    
   <div align="center">
 
-| проекты на Python                                                                               | проекты на Rust |
-|-------------------------------------------------------------------------------------------------|-----------------|
-| <a href="https://github.com/BorodaOmsk/Flask-Jira-data-API">Flask-Jira-data-API</a>             | Уже в пути      |
-| <a href="https://github.com/BorodaOmsk/JiraDataApi">GUI приложение получение данных из Jira</a> |                 |
+| проекты на Python                                                                               | 
+|-------------------------------------------------------------------------------------------------|
+| <a href="https://github.com/BorodaOmsk/Flask-Jira-data-API">Flask-Jira-data-API</a>             |      
+| <a href="https://github.com/BorodaOmsk/JiraDataApi">GUI приложение получение данных из Jira</a> |               
 
 </div>
 <div align="center">
