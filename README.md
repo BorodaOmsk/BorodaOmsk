@@ -32,6 +32,13 @@
   <a href="https://github.com/BorodaOmsk/Analyst-s-Notes/blob/main/README.md">Полезные материалы для "Системного аналитика"</a>
   </h2>
   </div>
+
+
+   <div align="center">
+   <h2>
+  <a href="https://github.com/BorodaOmsk/GRANIT">ГРАНИТ — гибридная методология управления, разработанная для компаний с государственным участием, работающих по госконтрактам с жёсткими сроками."</a>
+  </h2>
+  </div>
    
   <div align="center">
 
