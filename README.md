@@ -34,6 +34,12 @@
   <a href="https://github.com/BorodaOmsk/GRANIT">ГРАНИТ — гибридная методология управления, разработанная для компаний с государственным участием, работающих по госконтрактам."</a>
   </h2>
   </div>
+
+<div align="center">
+   <h2>
+  <a href="https://github.com/BorodaOmsk/-L1-">Фреймворк построения команды L1 технической поддержки"</a>
+  </h2>
+  </div>
    
   <div align="center">
 
