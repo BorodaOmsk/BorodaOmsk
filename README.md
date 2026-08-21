@@ -42,7 +42,12 @@
   </div>
    
   <div align="center">
-
+<div align="center">
+   <h2>
+  <a href="https://github.com/BorodaOmsk/legacy_projects_best_practices">Работа с legacy-системами: практическое руководство</a>
+  </h2>
+  </div>
+    
 | проекты на Python                                                                               | 
 |-------------------------------------------------------------------------------------------------|
 | <a href="https://github.com/BorodaOmsk/Flask-Jira-data-API">Flask-Jira-data-API</a>             |      
