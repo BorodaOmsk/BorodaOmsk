@@ -12,67 +12,67 @@
 <h1>
   Привет <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/> меня зовут Владимир Лебедьков
   
-</ч1>
+</h1>
 
 
 
-</див>
+</div>
 
 
 
 <!-- - **Сайт визитка** <a href="lebedkov.ru">lebedkov.ru</a> -->
 
-  <див выровнять="центр">
+  <div align="center">
    <h2>
   <a href="https://github.com/BorodaOmsk/ai-agents-sdlc/tree/main">ИИ-агенты в жизненном цикле разработки</a>
   </h2>
-  </див>
+  </div>
 
 
-   <див выровнять="центр">
+   <div align="center">
    <h2>
   <a href="https://github.com/BorodaOmsk/GRANIT">ГРАНИТ — гибридная методология управления, разработанная для компаний с государственным участием, работающих по госконтрактам.</a>
   </h2>
-  </див>
+  </div>
 
-<див выровнять="центр">
+<div align="center">
    <h2>
   <a href="https://github.com/BorodaOmsk/-L1-">Фреймворк построения команды L1 технической поддержки.</a>
   </h2>
-  </див>
+  </div>
    
-  <див выровнять="центр">
-<див выровнять="центр">
+  <div align="center">
+<div align="center">
    <h2>
-  <a href="https://github.com/BorodaOmsk/legacy_projects_best_practices">Работа с наследие-системами: практическое руководство</a>
+  <a href="https://github.com/BorodaOmsk/legacy_projects_best_practices">Работа с legacy-системами: практическое руководство</a>
   </h2>
-  </див>
+  </div>
   
   
-  <див выровнять="центр">
+  <div align="center">
    <h2>
   <a href="https://github.com/BorodaOmsk/Analyst-s-Notes/blob/main/README.md">Полезные материалы для "Системного аналитика"</a>
   </h2>
-  </див>
+  </div>
     
-| проекты на Питон                                                                               | 
-|--------------------------------------------------------------------------------------|
+| проекты на Python                                                                               | 
+|-------------------------------------------------------------------------------------------------|
 | <a href="https://github.com/BorodaOmsk/Flask-Jira-data-API">Flask-Jira-data-API</a>             |      
-| <a href="https://github.com/BorodaOmsk/JiraDataApi">Графический интерфейс пользователя приложенье плученье данныых из Jira</a> |               
+| <a href="https://github.com/BorodaOmsk/JiraDataApi">GUI приложение получение данных из Jira</a> |               
 
-</див>
-<див выровнять="центр">
+</div>
+<div align="center">
 
-</див>
+</div>
 
-<p выровнять="центр">
+<p align="center">
 
   <a href="https://skillicons.dev">
-    <имг источник="https://skillicons.dev/icons?i=git,docker,rust,py,flask,postgres,rabbitmq,kafka,vscode,figma" />
+    <img src="https://skillicons.dev/icons?i=git,docker,rust,py,flask,postgres,rabbitmq,kafka,vscode,figma" />
   </a>
 </p>
 
 
-<див выровнять="центр">
-<имг выровнять="центр"источник="https://komarev.com/ghpvc/?username=BorodaOmsk&стиль=плоский-квадрат&цвет=синий"  альт=""/ >
-</див>
+<div align="center">
+<img align="center"src="https://komarev.com/ghpvc/?username=BorodaOmsk&style=flat-square&color=blue"  alt=""/ >
+</div>
