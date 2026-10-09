@@ -55,10 +55,7 @@
   </h2>
   </div>
     
-| проекты на Python                                                                               | 
-|-------------------------------------------------------------------------------------------------|
-| <a href="https://github.com/BorodaOmsk/Flask-Jira-data-API">Flask-Jira-data-API</a>             |      
-| <a href="https://github.com/BorodaOmsk/JiraDataApi">GUI приложение получение данных из Jira</a> |               
+            
 
 </div>
 <div align="center">
